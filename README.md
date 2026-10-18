@@ -46,7 +46,7 @@ evaluates the pipeline on 226 CVEs across 25 CWE classes.
   exploitability — it disagrees with dynamic validation in a large share of
   cases, both as false positives and false negatives.
 
-Full methodology, experiments, and discussion are in `main.pdf` (the thesis
+Full methodology, experiments, and discussion are in `thesis.pdf` (the thesis
 document).
 
 ## Project structure
@@ -88,7 +88,7 @@ document).
 │   ├── poc_vs_agent.py
 │   └── stats.py / count_cve_types.py / ...
 │
-└── main.pdf             # Full thesis document
+└── thesis.pdf             # Full thesis document
 ```
 
 ## How it works (high level)
